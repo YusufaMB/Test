@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="quantity">Order quantity</string>
+    <string name="type">Order type</string>
+    <string name="hint1">Number of order items</string>
+    <string name="hint2">Type of order items</string>
+    <string name="order">Thank You!!</string>
+
+
+</resources>
