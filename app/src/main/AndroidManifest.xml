@@ -19,7 +19,8 @@
         <activity android:name=".order_activity" />
         <activity android:name=".home" />
         <activity android:name=".Sample_view" />
-        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Details_Activity"></activity>
     </application>
 
 </manifest>
