@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         suyaSpots.add(new restaurantModels(R.drawable.mypic1, "Sokoto Suya", "Zoo Road Kano"));
         suyaSpots.add(new restaurantModels(R.drawable.mypic1, "Murtala Suya", "Hotoro Road Kano"));
         suyaSpots.add(new restaurantModels(R.drawable.mypic1, "Al amir Suya", "Tarauni Road Kano"));
-        suyaSpots.add(new restaurantModels(R.drawable.mypic1, "kowa Suya", "Zaria Road Kano"));
+        suyaSpots.add(new restaurantModels(R.drawable.mypic1, "Garko Suya", "Zaria Road Kano"));
 
 
         ourRecyclerView = findViewById(R.id.my_recycler_view);
